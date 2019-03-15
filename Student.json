@@ -1,0 +1,8 @@
+{
+  "sid": 123,
+  "name": "Mohanth",
+  "age": 23,
+  "email": "mohanth@gmail.com",
+  "other_names": ["mohana", "vanaparthi"],
+  "friends": ["Vijay", "Jacob"]
+}
