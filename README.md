@@ -1,4 +1,4 @@
-# ms-py
+# Notes from ML journey
 
 Creation of Common Utilities in python
 
